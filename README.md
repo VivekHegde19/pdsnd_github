@@ -1,15 +1,23 @@
 ### Date created
-Include the date you created this project and README file.
+This project was created on 23-07-2020. ReadMe file were updated on 24-07-2020.
+
 
 ### Project Title
-Replace the Project Title
+"Project-3 Post your work on Github"
+
 
 ### Description
-Describe what your project is about and what it does
+This project is a part of Programming for data science with R Nanodegree at Udacity.
+This project analyses the data extracted from a bikeshare company related to 3 different cities, by using R and shares some interesting insights through visualizations.
+
 
 ### Files used
-Include the files used
+"P2-Explore_bikeshare_data_with_R_Vivek.ipynb"
+chicago.csv
+washington.csv
+new_york_city.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Udacity's Virtual Classroom Training materials
 
