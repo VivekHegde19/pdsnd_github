@@ -1,5 +1,5 @@
 ### Date created
-This project and the ReadMe file were created on 23-07-2020.
+This project was created on 23-07-2020. ReadMe file were updated on 24-07-2020.
 
 
 ### Project Title
@@ -19,5 +19,5 @@ new_york_city.csv
 
 
 ### Credits
-Udacity's Virtual Classroom Trainings and Sample files
+Udacity's Virtual Classroom Training materials
 
